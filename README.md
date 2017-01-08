@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://cet.edu.in">
-    <img style="background-color: #002147;" src="http://i.imgur.com/7z2hD7m.png">
+    <img src="http://i.imgur.com/p827li6.png">
   </a>
 </p>
 
