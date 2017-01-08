@@ -5,4 +5,15 @@
 </p>
 
 
-# cethtml
+## What is CET HTML?
+
+- **Website** - A college website project built using bootstrap.
+
+## Documentation
+
+Clone this repository to get started!
+
+## Want to contribute?
+
+* Contact - @Lplenka *
+
