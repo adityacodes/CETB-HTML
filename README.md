@@ -15,5 +15,5 @@ Clone this repository to get started!
 
 ## Want to contribute?
 
-* Contact - @Lplenka *
+*Contact - :smile: @Lplenka*
 
